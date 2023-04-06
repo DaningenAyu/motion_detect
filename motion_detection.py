@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+#このあとでROS、およびrealsenseで動くように実装する予定
+
 import cv2
 
 class ditection():
